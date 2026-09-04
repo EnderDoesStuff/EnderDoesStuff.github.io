@@ -1,7 +1,0 @@
-{
-    "editor.multiCursorPaste": "full",
-    "editor.overtypeCursorStyle": "line",
-    "editor.cursorBlinking": "smooth",
-    "editor.cursorWidth": 1,
-    "terminal.integrated.cursorStyle": "line"
-}
